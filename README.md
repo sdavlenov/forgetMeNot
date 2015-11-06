@@ -1,9 +1,6 @@
-
-
-
-
-
-
+============
+forgetMeNot
+============
 forgetMeNot is a to do list app that helps busy individuals keep track of their tasks by categorizing them by importance.
 
 Personas
