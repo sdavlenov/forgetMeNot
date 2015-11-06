@@ -1,9 +1,10 @@
-# forgetMeNot
-A schedule App
-==============
-forgetMeNOT
-==============
-forgetMeNot is a schedule app that helps busy individuals keep track of their tasks by categorizing them by importance.
+
+
+
+
+
+
+forgetMeNot is a to do list app that helps busy individuals keep track of their tasks by categorizing them by importance.
 
 Personas
 =========
@@ -31,3 +32,4 @@ Being able to fill up his schedule according to priority will help Joe greatly. 
 
 User Stories
 =============
+I want an app that will help me prioritize my tasks, sends me reminders when due dates are approaching, and erases the tasks when they are completed.
