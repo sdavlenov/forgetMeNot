@@ -30,3 +30,9 @@ Being able to fill up his schedule according to priority will help Joe greatly. 
 User Stories
 =============
 I want an app that will help me prioritize my tasks, sends me reminders when due dates are approaching, and erases the tasks when they are completed.
+
+Acceptance Stories
+===================
+Given that Joe forgets his assignment due dates, and dates his clients choose to leave for vacation, Id like to organize the tasks by categories **work** and **school**.  The program will list ALL the upcoming tasks also organized by categories of **urgency**.  There will be 3 categories for urgency levels. If there is a week or less left for the task, the urgency level will be **High**.  If there is two weeks or less left the urgency level will be **Medium**.  Finally if there is 3 weeks or less left for the tasks the urgency level will be **Low**.
+
+Given that Joe will want to remove tasks he has completed off his list, I would like the program to remove the tasks marked as done.  Joe will get messages for tasks with **High** urgency levels, and a prompt that will ask "Have you completed this task?".  If Joe types "Yes", the program will reply with "Great!  The task has been removed!".  If Joe types "No", the program will reply with "I will remind you of this task next time.  The due date for this task is .... " and it will show the date the task is due.
