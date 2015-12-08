@@ -36,3 +36,5 @@ Acceptance Stories
 Given that Joe forgets his assignment due dates, and dates his clients choose to leave for vacation, the app will be organized into categories **title** and **description** and **level**.  The program will show ALL the upcoming tasks also organized by categories of **level** for importance.  There will be 3 categories for urgency levels. If it is an important task, the urgency level will be **Important**.  If it is sort of important, the level will be **Medium**.  Finally if its is not very urgent but you want to remember it, the level will be **Unimportant**.
 
 Given that Joe will want to remove tasks he has completed off his list, he will have the option to delete them once they are done.  A simple **delete** command will ask Joe what item he wants to delete of his list.  Joe can choose to leave the tasks there as well.
+
+Given that Joe might want to edit a previous task he put into his reminders, he will have the option with the **edit** command.  This will allow him to edit any aspect of the task.
